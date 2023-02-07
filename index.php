@@ -86,7 +86,7 @@ $tableau = ['groupe', 23, 4.5, false, [1, 2, 3]];
 //Constantes
 define('HOST','localhost');
 define('USER', 'Jon Doe');
-define('TABLEAU',['a',45,true,1.8]);
+define('TABLEAU',['a','45',true,1.8]);
 // echo HOST;
 // echo '<hr>';
 // echo USER;
