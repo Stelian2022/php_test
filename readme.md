@@ -20,7 +20,7 @@ Un deuxieme paragraphe blalbllal
 * item 3
 - item 1
 - item 2
-- item 3
+- item 5 //conflit git
 
 ![Verre](https://images.pexels.com/photos/10686712/pexels-photo-10686712.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
