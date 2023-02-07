@@ -30,3 +30,6 @@ qsdqs
 [Documentation, manuel PHP](https://www.php.net/manuel/fr)
 [Generer un gitignore](https://www.toptal.com/developers/gitignore)
 
+---
+# Git
+[Git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
