@@ -42,7 +42,7 @@ echo $prixTTC;
 //de son annee de naissance
 
 $anneeDeNaissance=1986;
-$anneeEnCours=2023;
+$anneeEnCours=date("Y");
 $age=$anneeEnCours-$anneeDeNaissance;
 
 echo "<br>$age";
