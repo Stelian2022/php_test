@@ -40,17 +40,17 @@ echo $prixTTC;
 
 //calculer l'age d'une personne en fonction
 //de son annee de naissance
-$anneeDeNaissance=1986;
-$anneeEnCours=date("Y");//format date year
-$age=$anneeEnCours-$anneeDeNaissance;
+$anneeDeNaissance = 1986;
+$anneeEnCours = date("Y"); //format date year
+$age = $anneeEnCours - $anneeDeNaissance;
 
-echo "<br>$age"." ans";
+echo "<br>$age" . " ans";
 //incrementation
-$i=0;
+$i = 0;
 $i++; //i=i+1
 // incrementation par 2  $i+=2;
 echo "<br>$i";
-$j=10;
+$j = 10;
 $j--; //j=j-1
 
 echo "<br>$j";
