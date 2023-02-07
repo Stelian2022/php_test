@@ -7,9 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP</title>
 </head>
-<header>
-    <?php $titre = 'Cours PHP'; ?>
-    <h1><?= $titre ?></h1>
-</header>
+
 
 <body>

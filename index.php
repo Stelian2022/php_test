@@ -3,8 +3,13 @@
 //la page qd meme 
 //require './partials/header.php'; // si il n'existe pas n'execute pas la page
 //include_once './partials/header.php ; //
-?>
 
+?>
+<header>
+    <?php $titre = 'Cours PHP'; ?>
+    <h1><?= $titre ?></h1>
+   <?php include './partials/menu.php'; ?>
+</header>
 
 <main>
     <section>
